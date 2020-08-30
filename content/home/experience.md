@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Investment & SWE Intern"
+  company = "MiraclePlus (ex-YC China)"
+  company_url = "https://www.miracleplus.com/"
+  location = "Beijing"
+  date_start = "May 2020"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """  
+  * Constructed a database for 2200+ AI researchers (MongoDB), and built web crawlers (Python) to scrape data.
+  * Building a CRM in the backend for the deal sourcing team (Ruby)
+  * Sourced 50+ deals over 2 months
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Head of Operations"
+  company = "Soma Capital Fellowship"
+  company_url = "https://somacapfellowship.webflow.io/"
+  location = ""
+  date_start = "May 2020"
+  date_end = ""
+  description = """
+  * Built the original website (HTML, CSS, JavaScript), and received 440+ applications over 11 days
+  * Run weekly fellowship meetings, and conduct <a href="https://medium.com/@kexindeng2000/soma-capital-fellowship-what-we-learned-how-we-are-improving-7d6102c22254">fellow feedbacks</a>
+  * 25+ speakers over 3 months, ~25 summer fellows and ~10 fall fellows
+  """
 
 +++
