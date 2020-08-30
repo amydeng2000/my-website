@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amy Deng
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Builder & Writer 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UC Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- NLP & Chatbot
+- Venture Capital
+- Education
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Electrical Engineering & Computer Science
+    institution: UC Berkeley
+    year: 2023  
+  - course: Salutatorian
+    institution: Deerfield High School
+    year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:dengk@berkeley.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/amykexindeng/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/amydeng2000
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hey there, I am Amy Deng! I am always reflecting, building, and meeting new people! I launched <a href="https://somacapfellowship.webflow.io/">Soma Capital Fellowship</a> runs the program as the Head of Operations. Interning at MiraclePlus (prev. YC China), I brought in ~10 deals to the final interview, and I am automating the deal sourcing workflow by building a CRM in the backend. On the side, I <a href="https://github.com/amydeng2000/">hacked</a> a few projects and <a href="https://amydeng.substack.com">write</a> about venture in China.
