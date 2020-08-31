@@ -32,7 +32,6 @@ date_format = "Jan 2006"
   description = ""
   library="true"
   src="download.jpg" 
-  title="A caption"
 
 
 
