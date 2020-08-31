@@ -8,6 +8,10 @@ weight = 50  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
