@@ -31,8 +31,10 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+  {{< figure library="true" src="download.jpg" title="A caption" >}}
 
 [[item]]
+  {{< figure library="true" src="download.jpg" title="A caption" >}}
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"

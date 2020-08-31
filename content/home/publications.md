@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
@@ -30,15 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  [item]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+
   
 [design]
   # Toggle between the various page layout types.
@@ -81,12 +73,4 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}} -->
 
 this is some content
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+{{< figure library="true" src="download.jpg" title="A caption" >}}
