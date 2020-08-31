@@ -68,9 +68,5 @@ subtitle = ""
  css_class = ""
 +++
 
-<!-- {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}} -->
-
 this is some content
-{{< figure library="true" src="download.jpg" title="A caption" >}}
+{{< figure library="true" src="download.jpg" title="A caption" align="right">}}

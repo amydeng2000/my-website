@@ -27,10 +27,14 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
-  project_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+  figure library="true" 
+  src="download.jpg" 
+  align="right"
+
+  # {{< figure library="true" src="download.jpg" title="A caption" align="right">}}
 
 
 +++
