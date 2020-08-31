@@ -30,11 +30,14 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
-  figure library="true" 
+  library="true"
   src="download.jpg" 
-  align="right"
+  title="A caption"
 
-  # {{< figure library="true" src="download.jpg" title="A caption" align="right">}}
+
+
+
+< figure library="true" src="download.jpg" title="A caption" align="right">
 
 
 +++
