@@ -21,8 +21,6 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  this is some content
-
 [[projects]]
   title = "SWE & Investment Intern"
 
