@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 
 
 
-< figure library="true" src="download.jpg" title="A caption" align="right">
+{{< figure library="true" src="download.jpg" title="A caption" align="right">}}
 
 
 +++
