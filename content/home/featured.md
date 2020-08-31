@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "abc"
+    category = "abc"
+    publication_type = "abc"
+    author = "abc"
   
 [design]
   # Toggle between the various page layout types.
