@@ -67,8 +67,17 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /alert %}} -->
 
 this is some content
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
