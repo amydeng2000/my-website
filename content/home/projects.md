@@ -21,16 +21,19 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+[[project]]
+  title = "SWE & Investment Intern"
+  company = "MiraclePlus (ex-YC China)"
+  company_url = "https://www.miracleplus.com/"
+  location = "Beijing"
+  date_start = "2020-05-15"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = """  
+  * Constructed a database for 2200+ AI researchers (MongoDB), and built web crawlers (Python) to scrape data.
+  * Building a CRM in the backend for the deal sourcing team (Ruby)
+  * Sourced 50+ deals over 2 months
+  """
+
   # [[content.filter_button]]
   #   name = "All"
   #   tag = "*"
