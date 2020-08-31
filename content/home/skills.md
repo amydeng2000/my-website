@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = <a href="www.google.com">"90%"</a>
+  description = "90%"
   
 [[feature]]
   icon = "chart-line"
