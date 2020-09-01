@@ -29,10 +29,11 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-05-01"
   date_end = ""
-  description = "A newsletter on Chinese startups and VC ecosystem. Featured topics:
+  description = """
+  A newsletter on Chinese startups and VC ecosystem. Featured topics:
   * Will plant-based meat struggle in post-COVID China?
   * Things you didn't know about Chinese business culture 
-  "
+  """
 
 [[item]]
   organization = "Medium"
@@ -41,10 +42,11 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-03-01"
   date_end = ""
-  description = "Presence on Medium
+  description = """
+  Presence on Medium
   * Soma Capital Fellowship: What we Learned & How We are Improving
   * Announcing the Unshackled Ventures’ Fellows: <a href="https://medium.com/unshackled-ventures/announcing-the-unshackled-ventures-fellows-class-of-2020-3bc83100dc20">Class of 2020 </a>
-  "
+  """
 
 [[item]]
   organization = "Presentation"
@@ -53,10 +55,11 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2019-12-01"
   date_end = ""
-  description = "A startup idea generated from Critical Product Management class. The deck walks through the product life cycle.
+  description = """
+  A startup idea generated from Critical Product Management class. The deck walks through the product life cycle.
   * This presentation won the first place in the course and was recommended to a Berkeley Skydeck Pictch Comp.
   * Pitched to Dorm Room Fund for feedback.
-  "
+  """
 
 [[item]]
   organization = "Deep Dive"
@@ -65,9 +68,10 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "An in-depth industry deep dive into the no-code space in China
-  * Interview summaries with top no code aPaas and "Airtable" players in China, including <a href="https://www.clickpaas.com/">ClickPaas</a>, ActionSoft, Qingliu, HIPA, Treelabs, and Lark. 
-  "
+  description = """
+  An in-depth industry deep dive into the no-code space in China
+  * Interview summaries with top no code aPaas and "Airtable" players in China, including <a href="https://www.clickpaas.com/">ClickPaas</a>, <a href="https://www.actionsoft.com.cn/">ActionSoft</a>, <a href="https://qingflow.com/">QingFlow</a>, <a href="https://hipacloud.com/">HIPA</a>, Treelabs, and Lark. 
+  """
 
 
 
