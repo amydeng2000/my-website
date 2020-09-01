@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Projects"
+title = "Other Projects"
 subtitle = ""
 
 [design]
@@ -33,3 +33,5 @@ date_format = "Jan 2006"
 
 
 +++
+ ![](http://codekeyboards.com/img/code-104-bright-backlit.jpg)
+
