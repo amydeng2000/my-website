@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Skills"
+title = "Technical Projects"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "briefcase"
   icon_pack = "fas"
-  name = "Project from Work"
-  description = "90%"
+  name = "Workflow Automation"
+  description = "Web crawler (python), database (MongoDB), command line application"
   
 [[feature]]
   icon = "atlas"
   icon_pack = "fas"
   name = "Web Design"
-  description = "100%"  
+  description = "The previous launched version of Soma Capital Fellowship website (HTML, CSS, JavaScript)"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Analytics"
+  description = "Regression and hypothesis test on bay area boba shops (iPython)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -49,3 +49,5 @@ subtitle = ""
 #  description = "90%"
 
 +++
+
+Please see all projects on my <a href="https://github.com/amydeng2000">Github</a>
