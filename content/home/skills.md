@@ -50,4 +50,4 @@ subtitle = ""
 
 +++
 
-Please see all projects on my <a href="https://github.com/amydeng2000">Github</a>
+Please see all projects on my <b><a href="https://github.com/amydeng2000">Github</a></b>

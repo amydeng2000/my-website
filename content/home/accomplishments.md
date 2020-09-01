@@ -64,13 +64,15 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Deep Dive"
   organization_url = "https://drive.google.com/file/d/1gJszLar22AJrGxb43nR-qC1gtyBh1dF9/view?usp=sharing"
-  title = "No-code Chinese Industry Analysis"
+  title = "No-code Chinese industry analysis"
   url = ""
   date_start = "2020-04-01"
   date_end = ""
   description = """
   An in-depth industry deep dive into the no-code space in China
-  * Interview summaries with top no code aPaas and "Airtable" players in China, including <a href="https://www.clickpaas.com/">ClickPaas</a>, <a href="https://www.actionsoft.com.cn/">ActionSoft</a>, <a href="https://qingflow.com/">QingFlow</a>, <a href="https://hipacloud.com/">HIPA</a>, Treelabs, and Lark. 
+  * Interview summaries with top no code aPaas and "Airtable" players in China, including <a href="https://www.clickpaas.com/">ClickPaas</a>, <a href="https://www.actionsoft.com.cn/">ActionSoft</a>, <a href="https://qingflow.com/">QingFlow</a>, <a href="https://hipacloud.com/">HIPA</a>, <a href="https://www.treelab.com.cn/">Treelabs</a>, and <a href="https://www.larksuite.com">Lark</a>. 
+  * Presented to MiraclePlus' founding partners and influenced their F20 batch investment decision.
+  * The presentation is in Chinese, contact me for more info!
   """
 
 
